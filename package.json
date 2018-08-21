@@ -1,0 +1,24 @@
+{
+  "name": "bmazon_node",
+  "version": "1.0.0",
+  "description": "Create a Amazon like storefront using mySQL and NPM",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paichunwang/bmazon_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paichunwang/bmazon_node/issues"
+  },
+  "homepage": "https://github.com/paichunwang/bmazon_node#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
